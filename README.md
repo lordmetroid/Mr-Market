@@ -1,0 +1,2 @@
+# stockman
+Stock index analyzer
